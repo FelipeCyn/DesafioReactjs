@@ -11,8 +11,8 @@ Para iniciar o projeto localmente, siga as etapas abaixo:
 1. Certifique-se de ter o npm instalado na sua máquina.
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/FelipeCyn/DesafioReactjs.git
+   cd DesafioReactjs
    npm install
    npm start
 
